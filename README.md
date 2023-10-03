@@ -6,3 +6,7 @@
 redirected.php 上传到网站根目录下
 RedirectLinks 这个文件夹上传到 /usr/plugins 下面
 后台点击启用这个插件。设置那里可以自定义例外域名
+
+演示地址
+
+https://www.myhelen.cn/helen/192.htm
